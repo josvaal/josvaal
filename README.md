@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 Hi! I'm a Front-end developer.
+🌌 Hi! I'm a Full Stack developer.
 
 
 ## 🌐 Socials:
