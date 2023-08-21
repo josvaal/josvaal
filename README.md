@@ -1,4 +1,4 @@
-# Hi 👋 My name is JosVal
+# Hi 👋 My name is José Valentino
 
 ## Full Stack Developer
 
