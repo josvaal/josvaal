@@ -1,20 +1,17 @@
-# Hi 👋 My name is José Valentino
+# Hola 👋 Mi nombre es José Valentino
 
-## Frontend Developer
+## Desarrollador de interfaz de usuario
 
-Passionate self-taught Full Stack developer with an early fascination for technology.
+Apasionado desarrollador Full Stack autodidacta con una temprana fascinación por la tecnología.
 
--  🌍  I'm based in Peru
--  🖥️  See my portfolio at [josv4l.netlify.app](http://josv4l.netlify.app/)
--  ✉️  You can contact me at [josval@duck.com](mailto:josval@duck.com)
--  🧠  I'm learning Frameworks and Programming languages
--  ⚡  Don't program to solve problems, program to offer solutions.
-   <br /><br />
+-  🌍 Estoy radicado en Perú
+-  🖥️ Vea mi portafolio en [josv4l.netlify.app](http://josv4l.netlify.app/)
+-  ✉️ Puedes contactarme en [josval@duck.com](mailto:josval@duck.com)
+-  🧠 Estoy aprendiendo Frameworks y lenguajes de programación.
+-  ⚡ No programes para resolver problemas, programa para ofrecer soluciones.
+    <br /><br />
 
-<a href="https://www.twitch.tv/heyy_josval" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/heyy_josval?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
