@@ -1,6 +1,6 @@
 # Hi 👋 My name is José Valentino
 
-## Full Stack Developer
+## Frontend Developer
 
 Passionate self-taught Full Stack developer with an early fascination for technology.
 
