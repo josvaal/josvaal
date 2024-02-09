@@ -1,6 +1,6 @@
 # Hola 👋 Mi nombre es José Valentino
 
-## Desarrollador de interfaz de usuario
+## Desarrollador Frontend
 
 Apasionado desarrollador Full Stack autodidacta con una temprana fascinación por la tecnología.
 
