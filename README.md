@@ -177,7 +177,7 @@ Apasionado desarrollador Full Stack autodidacta con una temprana fascinación po
 </a>
 </p>
                     
-### Socials
+### Social
                   
                   
 <p align="left">
@@ -233,10 +233,6 @@ Apasionado desarrollador Full Stack autodidacta con una temprana fascinación po
          </a>
       </p>
 
-### Badges
+### Insignias
 
 <a href="https://github.com/heyy-josval" align="left" style="width: 100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyy-josval&layout=pie&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/josv4l"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
