@@ -5,7 +5,7 @@
 Apasionado desarrollador Full Stack autodidacta con una temprana fascinación por la tecnología.
 
 -  🌍 Estoy radicado en Perú
--  🖥️ Vea mi portafolio en [josv4l.netlify.app](http://josv4l.netlify.app/)
+-  🖥️ Vea mi portafolio en [josv4l.netlify.app](http://josval.is-a.dev/)
 -  ✉️ Puedes contactarme en [josval@duck.com](mailto:josval@duck.com)
 -  🧠 Estoy aprendiendo Frameworks y lenguajes de programación.
 -  ⚡ No programes para resolver problemas, programa para ofrecer soluciones.
