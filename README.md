@@ -4,10 +4,9 @@
 
 Apasionado desarrollador Full Stack autodidacta con una temprana fascinación por la tecnología.
 
--  🌍 Estoy radicado en Perú
+-  🌍 Estoy en Perú
 -  🖥️ Vea mi portafolio en [josval.is-a.dev](http://josval.is-a.dev/)
--  ✉️ Puedes contactarme en [josval@duck.com](mailto:josval@duck.com)
--  🧠 Estoy aprendiendo Frameworks y lenguajes de programación.
+-  ✉️ Puedes contactarme en [josvalmtrz@gmail.com](mailto:josvalmtrz@gmail.com)
 -  ⚡ No programes para resolver problemas, programa para ofrecer soluciones.
     <br /><br />
 
