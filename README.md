@@ -2,7 +2,7 @@
 
 ## Desarrollador Frontend
 
-Apasionado desarrollador Full Stack autodidacta con una temprana fascinación por la tecnología.
+Desarrollador de software y Creador de Contenido sobre Programación de Madre de Dios, Perú 🇵🇪. Especializado en aprender y mejorar de manera autodidacta mis aptitudes.
 
 -  🌍 Estoy en Perú
 -  🖥️ Vea mi portafolio en [josval.is-a.dev](http://josval.is-a.dev/)
