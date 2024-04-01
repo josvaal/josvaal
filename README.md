@@ -1,6 +1,6 @@
 # Hola 👋 Mi nombre es José Valentino
 
-## Desarrollador Frontend
+## Desarrollador Full Stack
 
 Desarrollador de software y Creador de Contenido sobre Programación de Madre de Dios, Perú 🇵🇪. Especializado en aprender y mejorar de manera autodidacta mis aptitudes.
 
