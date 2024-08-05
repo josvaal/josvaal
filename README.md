@@ -6,6 +6,6 @@ Desarrollador de software y Creador de Contenido sobre Programación de Madre de
 
 -  🌍 Estoy en Perú
 -  🖥️ Vea mi portafolio en [josval.is-a.dev](http://josval.is-a.dev/)
--  ✉️ Puedes contactarme en [josvalmtrz@gmail.com](mailto:josvalmtrz@gmail.com)
+-  ✉️ Puedes contactarme en [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
 -  ⚡ No programes para resolver problemas, programa para ofrecer soluciones.
     <br /><br />
