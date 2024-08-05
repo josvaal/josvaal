@@ -7,5 +7,4 @@ Soy un desarrollador Full Stack de Madre de Dios, Perú 🇵🇪. Apasionado por
 -  🌍 Estoy en Perú
 -  🖥️ Vea mi portafolio en [josval.is-a.dev](http://josval.is-a.dev/)
 -  ✉️ Puedes contactarme en [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
--  ⚡ No programes para resolver problemas, programa para ofrecer soluciones.
     <br /><br />
