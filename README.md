@@ -2,7 +2,7 @@
 
 ## Desarrollador Full Stack
 
-Desarrollador de software y Creador de Contenido sobre Programación de Madre de Dios, Perú 🇵🇪. Especializado en aprender y mejorar de manera autodidacta mis aptitudes.
+Soy un desarrollador Full Stack de Madre de Dios, Perú 🇵🇪. Apasionado por la tecnología y el open source. Me enfoco en crear soluciones eficientes y prácticas, con un interés particular en optimizar procesos y mejorar la experiencia del usuario. Mi lema, "Talk is cheap. Show me the code" de Linus Torvalds, refleja mi dedicación a la calidad del código y a resultados tangibles.
 
 -  🌍 Estoy en Perú
 -  🖥️ Vea mi portafolio en [josval.is-a.dev](http://josval.is-a.dev/)
