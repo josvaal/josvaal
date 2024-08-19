@@ -38,9 +38,13 @@
 ###
 
 <div align="left">
--  🖥️ See my portfolio at [josval.is-a.dev](http://josval.is-a.dev/)
--  ✉️ You can contact me at [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
+
+- 🖥️ See my portfolio at [josval.is-a.dev](http://josval.is-a.dev/)
+
+- ✉️ You can contact me at [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
+
 - 📹 You can watch my videos at [@josv4l](https://www.youtube.com/@josv4l)
+
 </div>
 
 ###
