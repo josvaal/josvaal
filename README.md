@@ -43,7 +43,7 @@
 
 <div align="left">
 
-- 🖥️ See my portfolio at [josval.is-a.dev](http://josval.is-a.dev/)
+- 🖥️ See my portfolio at [josval.xyz](http://josval.xyz)
 
 - ✉️ You can contact me at [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
 
