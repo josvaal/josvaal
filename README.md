@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josvaal&hide_title=false&hide_rank=false&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=false&locale=en" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josvaal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=josvaal&hide_title=false&hide_rank=false&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=false&locale=en" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josvaal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="175" alt="languages graph"  />
 </div>
 
 ###
