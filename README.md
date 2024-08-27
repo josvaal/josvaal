@@ -54,22 +54,6 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 294 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -78,17 +62,6 @@
 🌃 Evening                124 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
 🌙 Night                  95 commits          ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 ```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Wednesday                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Thursday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Friday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Saturday                 90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Sunday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -96,16 +69,10 @@ Sunday                   90 commits          ██████░░░░░�
 ```text
 🕑︎ Time Zone: America/Lima
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -126,5 +93,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/josvaal/josvaal/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2024 04:06:20 UTC
+ Last Updated on 27/08/2024 04:11:43 UTC
 <!--END_SECTION:waka-->
