@@ -1,81 +1,5 @@
 <h2 align="left">Hi 👋! My name is Jose Valentino and I'm a Full Stack Developer, from Peru</h2>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 292 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-🌆 Daytime                128 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌃 Evening                122 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌙 Night                  95 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Wednesday                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Thursday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Friday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Saturday                 90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Sunday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Lima
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/josvaal/josvaal/main/assets/bar_graph.png)
-
-
- Last Updated on 27/08/2024 03:52:47 UTC
-<!--END_SECTION:waka-->
-
 ###
 
 <div align="center">
@@ -128,3 +52,6 @@ Astro                    1 repo              █░░░░░░░░░░�
 </div>
 
 ###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
