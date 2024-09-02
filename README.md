@@ -14,7 +14,7 @@
 | <div align="center"><img src="https://skillicons.dev/icons?i=svelte,react,vite,nextjs,tailwind,mui,bootstrap" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring" height="35" alt="skills" /></div> |
 | <p align="center">Mobile</p> | <p align="center">Cloud & Hardware</p> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,reactnative" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,arduino" height="35" alt="skills" /></div> |
-| <p align="center">Toos</p> | <p align="center">OS</p> |
+| <p align="center">Tools</p> | <p align="center">OS</p> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=neovim,vscode,eclipse,idea,pycharm,postman,figma" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=arch,debian,windows" height="35" alt="skills" /></div> |
 
 
