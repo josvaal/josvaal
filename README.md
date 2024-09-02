@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Jose Valentino and I'm a Full Stack Developer, from Peru</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josvaal&hide_title=false&hide_rank=false&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=false&locale=en" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josvaal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="175" alt="languages graph"  />
-</div>
 
 ###
 
@@ -13,31 +7,14 @@
 
 ###
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="java logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+| <p align="center">Languages</p> | <p align="center">Databases</p> |
+|-------------------------------|--------------------------------|
+| <div align="center"><img src="https://skillicons.dev/icons?i=js,ts,dart,java,go,rust,python,cpp" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,supabase" height="35" alt="skills" /></div> |
+| <p align="center">Frontend</p> | <p align="center">Backend</p> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=svelte,react,nextjs,tailwind,mui,bootstrap" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring" height="35" alt="skills" /></div> |
+| <p align="center">Mobile</p> | <p align="center">Cloud & Hardware</p> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=flutter,reactnative" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,arduino" height="35" alt="skills" /></div> |
+
 
 ###
 
@@ -53,45 +30,18 @@
 
 ###
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=josvaal&hide_title=false&hide_rank=false&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=false&locale=en" height="175" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josvaal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="175" alt="languages graph"  />
+  </div>
+</details>
+
+<details>
+<summary>More...</summary>
+<br>
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-🌆 Daytime                147 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌃 Evening                138 commits         ████████░░░░░░░░░░░░░░░░░   30.87 % 
-🌙 Night                  126 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Lima
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/josvaal/josvaal/main/assets/bar_graph.png)
-
-
- Last Updated on 01/09/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
+</details>
