@@ -9,13 +9,13 @@
 
 | <p align="center">Languages</p> | <p align="center">Databases</p> |
 |-------------------------------|--------------------------------|
-| <div align="center"><img src="https://skillicons.dev/icons?i=js,ts,dart,java,go,rust,python,cpp" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,supabase" height="35" alt="skills" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=js,ts,dart,java,go,kotlin,rust,python,cpp" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,supabase" height="35" alt="skills" /></div> |
 | <p align="center">Frontend</p> | <p align="center">Backend</p> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=svelte,react,vite,nextjs,tailwind,mui,bootstrap" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring" height="35" alt="skills" /></div> |
 | <p align="center">Mobile</p> | <p align="center">Cloud & Hardware</p> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,kotlin" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,arduino" height="35" alt="skills" /></div> |
 | <p align="center">Tools</p> | <p align="center">OS</p> |
-| <div align="center"><img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,eclipse,idea,pycharm,postman,figma" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=arch,debian,windows" height="35" alt="skills" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,androidstudio,eclipse,idea,pycharm,postman,figma" height="35" alt="skills" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=arch,debian,windows" height="35" alt="skills" /></div> |
 
 
 ###
