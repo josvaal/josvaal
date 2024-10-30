@@ -7,7 +7,7 @@
 
 ###
 
-![](https://better-github-skills.deno.dev/api/josvaal?techs=js,svelte,java,spring)
+![](https://better-github-skills.deno.dev/api/josvaal?techs=js,svelte,spring,go)
 
 ###
 
