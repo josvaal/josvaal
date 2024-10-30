@@ -1,7 +1,7 @@
 
 <h2>Hey 👋! I am Josval</h2>
 
-![](https://better-github-skills.deno.dev/api/josvaal?techs=js,svelte,spring,go)
+![](https://better-github-skills.deno.dev/api/josvaal?techs=ts,nextjs,deno,spring)
 
 <h2>
 	Github ⚫
