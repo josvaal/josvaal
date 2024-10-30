@@ -1,24 +1,14 @@
-<h2 align="left">Hi 👋! My name is Jose Valentino and I'm a Software Developer</h2>
 
-
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif"  />
-
-###
+<h2>Hey 👋! I am Josval</h2>
 
 ![](https://better-github-skills.deno.dev/api/josvaal?techs=js,svelte,spring,go)
 
-###
-
-<div align="left">
-
-- 🖥️ See my portfolio at [josval.xyz](http://josval.xyz)
-
-- ✉️ You can contact me at [josval.personal@gmail.com](mailto:josval.personal@gmail.com)
-
-- 📹 You can watch my videos at [@josv4l](https://www.youtube.com/@josv4l)
-
-</div>
-
-###
+<h2>
+	Github ⚫
+</h2>
+  
+<a href="https://github.com/josvaal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josvaal&show_icons=true&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josvaal&layout=compact&langs_count=4&show_icons=true&theme=omni"/>
+</a>
+  
